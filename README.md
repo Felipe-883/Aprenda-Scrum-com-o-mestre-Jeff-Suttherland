@@ -1,3 +1,6 @@
+Link abaixo NotebookLM
+https://notebooklm.google.com/notebook/53724368-a753-4ad1-88ab-6ec39d9ba736
+
 # Aprenda-Scrum-com-o-mestre-Jeff-Suttherland
 Aprenda e aprofunde seus conhecimentos em Scrum por meio de estudos baseados nos ensinamentos de seu cocriador, Jeff Sutherland.
 
